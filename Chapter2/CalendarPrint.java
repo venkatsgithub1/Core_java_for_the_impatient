@@ -2,7 +2,7 @@ package com.java.calendar;
 
 import java.util.Calendar;
 
-public class CalendarModifier {
+public class CalendarPrint {
 
 	public static void main(String[] args) {
 		Calendar calendar = Calendar.getInstance();
